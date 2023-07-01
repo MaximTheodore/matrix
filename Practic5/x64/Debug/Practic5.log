@@ -1,0 +1,5 @@
+﻿  Practic5.cpp
+D:\2 курс\c++\Practic5\Practic5\Practic5.cpp(34,32): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2 курс\c++\Practic5\Practic5\Practic5.cpp(36,36): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2 курс\c++\Practic5\Practic5\Practic5.cpp(54,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Practic5.vcxproj -> D:\2 курс\c++\Practic5\x64\Debug\Practic5.exe
